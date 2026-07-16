@@ -124,18 +124,4 @@ git clone https://github.com/your-username/Netflix-SQL-Project.git
 
 ---
 
-## 🎯 Learning Outcomes
-
-This project demonstrates practical experience with:
-
-- Writing optimized SQL queries
-- Solving business problems using SQL
-- Exploratory Data Analysis (EDA)
-- Data cleaning and transformation
-- PostgreSQL string and date manipulation
-- Window Functions and CTEs
-- Real-world analytics using relational databases
-
----
-
 ## ⭐ If you found this project useful, consider giving it a Star!
